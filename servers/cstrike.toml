@@ -198,3 +198,62 @@ protocol = 48
 contact  = "matheus.rondine@terra.com.br"
 host     = "zS.TeaM zM"
 
+[[server]]
+address = "servers.gamecs.com.br:27015"
+protocol = 48
+contact = "servers@gamecs.com.br"
+host = "GameCS - 4FUN"
+
+[[server]]
+address = "servers.gamecs.com.br:27016"
+protocol = 48
+contact = "servers@gamecs.com.br"
+host = "GameCS - PUG"
+
+[[server]]
+address = "servers.gamecs.com.br:27017"
+protocol = 48
+contact = "servers@gamecs.com.br"
+host = "GameCS - DM"
+
+[[server]]
+address = "servers.gamecs.com.br:27018"
+protocol = 48
+contact = "servers@gamecs.com.br"
+host = "GameCS - GG"
+
+[[server]]
+address = "servers.gamecs.com.br:27019"
+protocol = 48
+contact = "servers@gamecs.com.br"
+host = "GameCS - 4PRO"
+
+[[server]]
+address = "servers.gamecs.com.br:27020"
+protocol = 48
+contact = "servers@gamecs.com.br"
+host = "GameCS - DEATHRUN"
+
+[[server]]
+address = "servers.gamecs.com.br:27021"
+protocol = 48
+contact = "servers@gamecs.com.br"
+host = "GameCS - SURF"
+
+[[server]]
+address = "servers.gamecs.com.br:27022"
+protocol = 48
+contact = "servers@gamecs.com.br"
+host = "GameCS - SHERO"
+
+[[server]]
+address = "servers.gamecs.com.br:27023"
+protocol = 48
+contact = "servers@gamecs.com.br"
+host = "GameCS - CPL"
+
+[[server]]
+address = "servers.gamecs.com.br:27024"
+protocol = 48
+contact = "servers@gamecs.com.br"
+host = "GameCS - ZOMBIE"
